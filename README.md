@@ -11,3 +11,9 @@ Skybreak Patrol — аркадный космический шутер от YETI
 На Mac корабль управляется мышью или клавишами WASD. Игра работает офлайн, сохраняет прогресс и таблицу рекордов на устройстве. Сборка полностью бесплатна, без рекламы и встроенных покупок.
 
 Для запуска нужен Mac с Apple Silicon и macOS 14 или новее. Интерфейс доступен на русском, английском, французском, немецком, испанском и итальянском. Язык выбирается по настройкам устройства.
+
+## Privacy Policy
+
+Skybreak Patrol от YETI³ не требует учётной записи. Прогресс, настройки, позывной и таблица рекордов хранятся на устройстве. Игра не отправляет эти данные разработчику или третьим лицам и не использует рекламу, аналитику или трекинг. Чтобы удалить сохранения на iPhone или iPad, удалите приложение. На Mac локальный профиль можно удалить из папки данных приложения. Если вы сами пишете в поддержку, мы используем ваш адрес и сообщение для ответа. Контакт по вопросам конфиденциальности — ursolov@gmail.com.
+
+Skybreak Patrol by YETI³ does not require an account. The app stores progress, preferences, your callsign, and scores on the device. It does not transmit this data to the developer or third parties and does not use advertising, analytics, or tracking. Delete the app to remove saved data on iPhone or iPad. On Mac, you can remove the profile from the app's data folder. If you contact support, we use your address and message to respond. For privacy questions, email ursolov@gmail.com.
